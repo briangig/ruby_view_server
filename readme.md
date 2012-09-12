@@ -88,7 +88,7 @@ In the terminal you can run
 This will loop through all the files in the `views` directory, parse their erb and write the contents to the `public` directory.
 
 Run the generator and drag a page from the `public` directory to your browser, it should render.
-
+                                                                                                                                        ruby
 homework:
 
 Add another file to the `/views` directory with your name. Add some personalized content directly to the file. Pretend this is geocities and you're making a home-page. Try using different tags such as `<div>`, `<p>`, `<span>`, or look up tags to use on w3c.

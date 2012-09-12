@@ -12,5 +12,5 @@ puts bingo.result(binding)
 
 z = 'This is '
 w = ' programming language'
-obvious = ERB.new "<b> <%= z %> the Ruby <%= w %> </b>"
+obvious = ERB.new "<b> <%= z %> the Ruby <%= w %> </b>gitgitru"
 puts obvious.result(binding)
